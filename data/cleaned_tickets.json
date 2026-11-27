@@ -1,0 +1,82 @@
+[
+    {
+        "ticket_id": "T-101",
+        "category": "IT",
+        "query": "How do I reset my VPN password?? Urgent!!",
+        "tokens": [
+            "reset",
+            "vpn",
+            "password",
+            "urgent"
+        ]
+    },
+    {
+        "ticket_id": "T-102",
+        "category": "HR",
+        "query": "What is the company policy on remote work and WFH days?",
+        "tokens": [
+            "company",
+            "policy",
+            "remote",
+            "work",
+            "wfh",
+            "days"
+        ]
+    },
+    {
+        "ticket_id": "T-103",
+        "category": "IT",
+        "query": "My laptop screen is flickering after the latest Windows update...",
+        "tokens": [
+            "laptop",
+            "screen",
+            "flickering",
+            "latest",
+            "windows",
+            "update"
+        ]
+    },
+    {
+        "ticket_id": "T-105",
+        "category": "Finance",
+        "query": "How can I submit my travel & meal expense reimbursement receipts?",
+        "tokens": [
+            "submit",
+            "travel",
+            "meal",
+            "expense",
+            "reimbursement",
+            "receipts"
+        ]
+    },
+    {
+        "ticket_id": "T-107",
+        "category": "HR",
+        "query": "How many paid sick leave days do interns and full-time employees get?",
+        "tokens": [
+            "many",
+            "paid",
+            "sick",
+            "leave",
+            "days",
+            "interns",
+            "fulltime",
+            "employees"
+        ]
+    },
+    {
+        "ticket_id": "T-108",
+        "category": "IT",
+        "query": "Cannot connect to the office Wi-Fi network or VPN from Ubuntu Linux.",
+        "tokens": [
+            "cannot",
+            "connect",
+            "office",
+            "wifi",
+            "network",
+            "vpn",
+            "ubuntu",
+            "linux"
+        ]
+    }
+]
