@@ -1,6 +1,6 @@
 AI Intern Take Home Assignment
 
--  ## Project Overview:
+## Project Overview:
 
 This project demonstrates Python data cleaning, basic NLP preprocessing, API integration, and introductory concepts related to LLMs, RAG, and AI safety.
 
@@ -12,8 +12,7 @@ The project consists of three main parts.
 
 3. LLM, RAG, and AI Safety: Covers prompt engineering, retrieval strategies, and prompt injection prevention.
 
-
--  ## Project Structure
+## Project Structure
 ai-intern-assignment/
 
 data/
@@ -26,7 +25,7 @@ README.md
 requirements.txt
 .gitignore
 
-- ## Requirements:
+## Requirements:
 
 1. Python 3.10 or higher
 2. pip
@@ -68,7 +67,7 @@ This script performs the following operations:
 7. Extracts the five most frequent keywords.
 8. Saves processed records to data/cleaned_tickets.json.
 
-- Part 2: API Integration
+Part 2: API Integration
 
 Run the following command:
 
