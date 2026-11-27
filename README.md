@@ -13,17 +13,19 @@ The project consists of three main parts.
 3. LLM, RAG, and AI Safety: Covers prompt engineering, retrieval strategies, and prompt injection prevention.
 
 ## Project Structure
-ai-intern-assignment/
 
-data/
-    support_tickets.json
-    cleaned_tickets.json
-task1_nlp_cleaner.py
-task2_api_client.py
-ANSWERS.md
-README.md
-requirements.txt
-.gitignore
+ai-intern-assignment/
+│
+├── data/
+│   ├── support_tickets.json
+│   └── cleaned_tickets.json
+│
+├── task1_nlp_cleaner.py
+├── task2_api_client.py
+├── ANSWERS.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ## Requirements:
 
