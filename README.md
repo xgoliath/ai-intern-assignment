@@ -15,17 +15,17 @@ The project consists of three main parts.
 ## Project Structure
 
 ai-intern-assignment/
-│
-├── data/
-│   ├── support_tickets.json
-│   └── cleaned_tickets.json
-│
-├── task1_nlp_cleaner.py
-├── task2_api_client.py
-├── ANSWERS.md
-├── README.md
-├── requirements.txt
-└── .gitignore
+|
+|-- data/
+|   |-- support_tickets.json
+|   |-- cleaned_tickets.json
+|
+|-- task1_nlp_cleaner.py
+|-- task2_api_client.py
+|-- ANSWERS.md
+|-- README.md
+|-- requirements.txt
+|-- .gitignore
 
 ## Requirements:
 
