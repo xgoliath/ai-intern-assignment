@@ -34,7 +34,7 @@ The project consists of three main parts.
 Setup Instructions
 1. Clone the repository using the following command:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/xgoliath/ai-intern-assignment.git
 
 2. Enter the project directory:
 
